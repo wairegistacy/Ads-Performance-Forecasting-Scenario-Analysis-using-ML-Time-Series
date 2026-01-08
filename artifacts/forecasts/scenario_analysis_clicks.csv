@@ -1,0 +1,9 @@
+campaign,scenario,pred_clicks
+camp 1,Impressions +20%,10461.081506001756
+camp 3,Impressions +20%,1895.6128471490517
+camp 1,Impressions -20%,8611.95356393156
+camp 3,Impressions -20%,1895.6128471490517
+camp 1,CTR -10%,8196.734528171046
+camp 3,CTR -10%,1944.6458552678816
+camp 1,CTR +10%,9468.088090752826
+camp 3,CTR +10%,1888.1491716725836

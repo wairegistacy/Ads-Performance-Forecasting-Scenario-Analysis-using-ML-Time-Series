@@ -33,6 +33,13 @@ This project aims to:
 3. Enable scenario analysis to support planning decisions under changing conditions
 4. Frame results in a way that is interpretable and useful for stakeholders
 
+## Steps
+Built a machine learning–based forecasting system to predict daily Ads performance metrics (clicks, impressions, cost) across multiple campaigns.
+Engineered lag features, rolling statistics, and calendar features to model temporal patterns in Ads data.
+Evaluated models using time-based validation and rolling backtests (MAE, RMSE, MAPE).
+Implemented scenario analysis to quantify the impact of changes in impressions and CTR on expected clicks, supporting Ads planning and budget decision-making.
+Developed an interactive Streamlit planning application for forecasting and what-if analysis.
+
 ## 📊 Dataset
 Real-world Ads performance dataset (campaign-level, daily granularity)
 Metrics include:
